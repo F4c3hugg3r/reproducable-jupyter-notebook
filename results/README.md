@@ -1,0 +1,1 @@
+# This folder serves as a directory for the results after `make run` is executed.
